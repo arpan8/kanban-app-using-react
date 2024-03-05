@@ -5,5 +5,5 @@ This is a solution to the [Kanban task management web app challenge on Frontend 
 
 ### Screenshot
 
-![Screenshot](<./public/image.png>)
+![Screenshot](<./public/screenshots/image.png>)
 
